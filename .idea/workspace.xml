@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ad892a-22d3-41c1-8023-12ea9eb02fa5" name="Changes" comment="day5">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hello\Desktop\Python 100 days\100days\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hello\Desktop\Python 100 days\100days\.venv\Beginner" />
+      <recent name="C:\Users\hello\Desktop\Python 100 days\100days" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -98,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708628461252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day5">
+      <option name="closed" value="true" />
+      <created>1708629491574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708629491574</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day5">
+      <option name="closed" value="true" />
+      <created>1708629690115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708629690115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
